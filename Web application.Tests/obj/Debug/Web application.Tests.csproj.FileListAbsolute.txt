@@ -1,0 +1,53 @@
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\ApplicationInsights.config
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Web application.Tests.dll.config
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Web application.Tests.dll
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Web application.Tests.pdb
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Newtonsoft.Json.dll
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\System.Web.Helpers.dll
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\System.Web.Mvc.dll
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\System.Web.Razor.dll
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\System.Web.WebPages.dll
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Web application.dll
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Microsoft.Owin.dll
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\System.Web.Optimization.dll
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Microsoft.Owin.Security.dll
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Owin.dll
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\EntityFramework.dll
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Web application.pdb
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Web application.dll.config
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Newtonsoft.Json.xml
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\System.Web.Helpers.xml
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\System.Web.Mvc.xml
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\System.Web.Razor.xml
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\System.Web.WebPages.xml
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Microsoft.Owin.xml
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\System.Web.Optimization.xml
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Microsoft.Owin.Security.xml
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\EntityFramework.xml
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\obj\Debug\Web application.Tests.csprojResolveAssemblyReference.cache
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\obj\Debug\Web application.Tests.csproj.CoreCompileInputs.cache
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\obj\Debug\Web application.Tests.csproj.CopyComplete
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\obj\Debug\Web application.Tests.dll
+c:\users\aviral masson\source\repos\Web application\Web application.Tests\obj\Debug\Web application.Tests.pdb
